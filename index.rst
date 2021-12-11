@@ -5,4 +5,4 @@ Python包zhenzni的使用
    :maxdepth: 2
    :caption: 内容介绍:
 
-   color
+   source/color
