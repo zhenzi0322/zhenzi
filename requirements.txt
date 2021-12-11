@@ -1,0 +1,6 @@
+Sphinx
+sphinx_material
+sphinx-tabs
+sphinxcontrib-log-cabinet
+packaging
+sphinx-bernard-theme
